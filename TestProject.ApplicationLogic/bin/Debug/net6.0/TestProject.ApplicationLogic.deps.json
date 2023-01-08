@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TestProject.ApplicationLogic/1.0.0": {
+        "dependencies": {
+          "TestProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TestProject.ApplicationLogic.dll": {}
+        }
+      },
+      "TestProject.Domain/1.0.0": {
+        "runtime": {
+          "TestProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestProject.ApplicationLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TestProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\TestProject\TestProject\bin\Debug\net6.0\TestProject.Console.exe
+C:\Users\admin\Desktop\TestProject\TestProject\bin\Debug\net6.0\TestProject.Console.deps.json
+C:\Users\admin\Desktop\TestProject\TestProject\bin\Debug\net6.0\TestProject.Console.runtimeconfig.json
+C:\Users\admin\Desktop\TestProject\TestProject\bin\Debug\net6.0\TestProject.Console.dll
+C:\Users\admin\Desktop\TestProject\TestProject\bin\Debug\net6.0\TestProject.Console.pdb
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.AssemblyInfo.cs
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.dll
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\refint\TestProject.Console.dll
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.pdb
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\TestProject.Console.genruntimeconfig.cache
+C:\Users\admin\Desktop\TestProject\TestProject\obj\Debug\net6.0\ref\TestProject.Console.dll
